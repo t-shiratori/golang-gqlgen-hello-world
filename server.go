@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gqlgen-hello-world/graph"
+	"golang-gqlgen-hello-world/graph"
 	"log"
 	"net/http"
 	"os"

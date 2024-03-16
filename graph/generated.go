@@ -8,7 +8,7 @@ import (
 	"embed"
 	"errors"
 	"fmt"
-	"gqlgen-hello-world/graph/model"
+	"golang-gqlgen-hello-world/graph/model"
 	"strconv"
 	"sync"
 	"sync/atomic"

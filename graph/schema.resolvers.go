@@ -6,7 +6,7 @@ package graph
 
 import (
 	"context"
-	"gqlgen-hello-world/graph/model"
+	"golang-gqlgen-hello-world/graph/model"
 )
 
 // CreateTodo is the resolver for the createTodo field.
